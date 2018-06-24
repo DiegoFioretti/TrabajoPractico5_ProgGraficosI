@@ -1,0 +1,15 @@
+\Debug
+
+\Release
+
+\.vs
+
+\x64
+
+\VentanaDeScore\Debug
+
+\VentanaDeScore\Release
+
+\VentanaDeScore\x64
+
+*.db
