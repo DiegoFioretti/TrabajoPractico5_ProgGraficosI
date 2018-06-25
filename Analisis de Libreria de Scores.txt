@@ -1,0 +1,1 @@
+1) La libreria no esta buildeada en MTd (Multi-Threaded debug) lo que hace que no sea compatible con nana,
